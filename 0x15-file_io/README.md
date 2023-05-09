@@ -1,1 +1,1 @@
-solutions of x15. C - File I/O tasks
+Solutions to tasks 0x15. C - File I/O
